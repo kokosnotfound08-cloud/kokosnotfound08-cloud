@@ -21,7 +21,7 @@
 - Proxmox *(Hypervisor running on my Home Server)*
 - Docker
 - KiCAD
-- FreeCAD
+- Fusion360/FreeCAD
 
 ### ⚙️ Hardware & Networking
 - Raspberry Pi 5
@@ -39,7 +39,7 @@
 <h1 id="🇨🇿-čeština" align="center">Ahoj, vítej na mém GitHub profilu! 👋</h1>
 
 ## 👨‍💻 O mně
-- 🔭 **Právě pracuji na:** Hře **Lodě** v jazyce C *(zatím ji ladím v private repozitáři 🤫)*
+- 🔭 **Právě pracuji na:**
 - 🌱 **Právě se učím:** Chci se pořádně opřít do **Pythonu** a **C++**
 - 💻 **Můj setup:** Jedu na dual bootu **Windows** a **Linux** 🐧🪟
 - 📫 **Jak mě kontaktovat:** Napiš Issue na jakýkoliv repository
@@ -53,7 +53,7 @@
 - Proxmox *(Hypervisor běžící na mém Home Serveru)*
 - Docker
 - KiCAD
-- FreeCAD
+- Fusion360/FreeCAD
 
 ### ⚙️ Hardware a Sítě
 - Raspberry Pi 5
