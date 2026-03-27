@@ -7,7 +7,7 @@
 <h1 id="🇬🇧-english" align="center">Hi, welcome to my GitHub profile! 👋</h1>
 
 ## 👨‍💻 About Me
-- 🔭 **Currently working on:** A **Battleship** game in C *(currently debugging in a private repository 🤫)*
+- 🔭 **Currently working on:**
 - 🌱 **Currently learning:** Diving deep into **Python** and **C++**
 - 💻 **My Setup:** I run a dual boot setup with **Windows** and **Linux** 🐧🪟
 - 📫 **How to reach me:** Open an Issue on any of my repositories
